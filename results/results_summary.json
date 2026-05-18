@@ -1,0 +1,8 @@
+{
+    "mBERT_val_accuracy": 0.7673,
+    "fusion_accuracy": 0.7885,
+    "total_posts_used": 104,
+    "training_data": 15000,
+    "youtube_comments": 785,
+    "facebook_posts": 104
+}
